@@ -4,7 +4,7 @@
 
 [![shifter_local](https://dockeri.co/image/getshifter/shifter_local)](https://hub.docker.com/r/getshifter/shifter_local/)
 
-Docker image for testing WordPress themes and plugins while migrating to Shifter. This image is also available on [Dockerhub](https://hub.docker.com/r/getshifter/shifter_local/).
+Shifter Local is an easy-to-use tool that helps you set up a local WordPress environment for plugin and theme development. It requires no configuration, so it's quick and easy to get started.
 
 ## Limitations
 

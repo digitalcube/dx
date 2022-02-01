@@ -1,10 +1,6 @@
  # Draft — Work in Progress
  Sourced from Gutenberg on [GitHub](https://raw.githubusercontent.com/WordPress/gutenberg/trunk/packages/env/README.md).
 
-# `wp-env`
-
-`wp-env` lets you easily set up a local WordPress environment for building and testing plugins and themes. It's simple to install and requires no configuration.
-
 ## Quick (tl;dr) instructions
 
 Ensure that Docker is running, then:
