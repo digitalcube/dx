@@ -2,7 +2,20 @@
 
 `wp-env` lets you easily set up a local WordPress environment for building and testing plugins and themes. It's simple to install and requires no configuration.
 
-## Quick (tl;dr) instructions
+## Developer instructions
+Develop the package locally using NPM link.
+
+```sh
+$ cd env
+$ npm i
+$ npm link
+$ wp-env
+
+wp-env <command>
+...
+```
+
+## Quick start (tl;dr) instructions
 
 Ensure that Docker is running, then:
 
